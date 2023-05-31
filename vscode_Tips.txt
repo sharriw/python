@@ -1,1 +1,6 @@
+####################### How to add parentheses auto matically ########
+1. Go to settings
+2. search python.
+3. Change user settings to the following:
 
+python.analysis.completeFunctionParens:true
